@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirzt&show_icons=true&count_private=true&include_all_commits=true&hide=prs&theme=default&token=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)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amirzt&count_private=true&show_icons=true&theme=radical&hide=contribs)](https://github.com/amirzt)
