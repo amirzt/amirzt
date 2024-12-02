@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Graduated from Sharif university<br>📱4 year experience in flutter and mobile development<br>👨🏻‍💻currently working as freelancer
+📱4 year experience in flutter and mobile development<br>👨🏻‍💻currently working as freelancer
 
 
 # 💻 Tech Stack:
