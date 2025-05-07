@@ -1,6 +1,6 @@
 # 💫 About Me:
 Just a tech <br />
-📱4 year experience in flutter and mobile development<br>👨🏻‍💻currently working as freelancer
+📱4 year experience in flutter and mobile development<br>👨🏻‍💻currently working as software engineer in a startup
 
 
 # 💻 Tech Stack:
