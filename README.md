@@ -1,4 +1,5 @@
 # 💫 About Me:
+Just a tech
 📱4 year experience in flutter and mobile development<br>👨🏻‍💻currently working as freelancer
 
 
